@@ -1,0 +1,3 @@
+echo '\033[1;34m'"Name the command that find, in real time, currently running processes"'\033[0m'
+
+top

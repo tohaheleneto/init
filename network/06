@@ -1,0 +1,2 @@
+echo '\033[1;31m'"Get the comlete path of the file that contains the IP address of the DNS server you're using\n"'\033[0m'
+/etc/resolv.conf

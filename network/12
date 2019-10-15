@@ -1,0 +1,2 @@
+echo '\033[1;34m'"Find the IP that was assigned to you by dhcp server\n"'\033[0m'
+ifconfig en0 | grep "inet " | cut -c2- | cut -c-18

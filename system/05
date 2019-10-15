@@ -1,0 +1,2 @@
+echo '\033[1;34m'"Name the command that determines the state of the SSH service"'\033[0m'
+echo service ssh status

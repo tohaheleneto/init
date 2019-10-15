@@ -1,0 +1,4 @@
+echo '\033[1;31m'"Make the intra.42.fr address reroute to 46.19.122.85"'\033[0m'
+
+echo "To make reroute one domain to another you must edit etc/hosts, but I don't have permissions.
+Just add the line with IP of rerouted domain and domain which you want to rerout"

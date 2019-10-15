@@ -1,0 +1,3 @@
+echo '\033[1;31m'"Explin how connect yourself as new user. (With graphic session and ssh session)\n"'\033[0m'
+
+echo "To connect yourself to virtual/remote mashine you must to use 'ssh' command where you must to choose user/root add '@' symbol and then add IP address of mashine\nEx: root@192.168.99.2\nThan if the port is not default you must to use flag '-p' and add port number\nEx: root@192.168.99.2 -p 10055\nThats all!"

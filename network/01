@@ -1,0 +1,2 @@
+echo '\033[1;34m'"Get the list of the network interfaces of the machine whithout displaing any detail for these interfacec.Only the list of names."'\033[0m'
+ifconfig -l

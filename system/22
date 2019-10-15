@@ -1,0 +1,3 @@
+echo '\033[1;34m'"Find that add a new local user"'\033[0m'
+
+echo adduser username

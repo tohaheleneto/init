@@ -1,0 +1,2 @@
+echo '\033[1;34m'"List all services which are started at boot time and name this kind of services"'\033[0m'
+echo "systemstl list-unit-files | grep enabled"

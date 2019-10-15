@@ -1,0 +1,2 @@
+echo '\033[1;34m'"Identify the IP address of the DNS that responds to the following url: slash16.org"'\033[0m'
+nslookup slash16.org | grep -A 1 Name

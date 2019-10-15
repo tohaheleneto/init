@@ -1,0 +1,2 @@
+echo '\033[1;34m'"Query an external DNS server on the vk.com domain name (ie. : 8.8.8.8)\n"'\033[0m'
+nslookup slash16.org 8.8.8.8

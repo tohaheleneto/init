@@ -1,0 +1,2 @@
+echo '\033[1;34m'"Find the command that allows you to connect via ssh on the VM.(In parallel with the graphic session)"'\033[0m'
+ssh oskar@192.168.99.2 -p 10055

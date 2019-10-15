@@ -1,0 +1,2 @@
+echo '\033[1;31m'"What command lets you know who is connected to the System?\n"'\033[0m'
+echo who

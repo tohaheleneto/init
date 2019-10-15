@@ -1,0 +1,3 @@
+echo '\033[1;34m'"Figure out the PID of the SSHD service."'\033[0m'
+
+echo "service ssh status | grep PID\n\tOR\t\n/var/run/sshd.pid"

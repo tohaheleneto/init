@@ -1,0 +1,2 @@
+echo '\033[1;31m'"What file contains the RSA keys of systems that are authorized to connect via SSH?"'\033[0m'
+echo "home dir/.ssh/id_rsa"

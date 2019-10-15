@@ -1,0 +1,2 @@
+echo '\033[1;31m'"What file contains the local DNS entries\n"'\033[0m'
+echo /etc/hosts

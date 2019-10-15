@@ -1,0 +1,3 @@
+echo '\033[1;31m'"In what file cam you find the installed version of your Debian"'\033[0m'
+
+echo /etc/debian_version

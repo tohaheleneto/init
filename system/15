@@ -1,0 +1,4 @@
+echo '\033[1;34m'"Find that kills the background command’s process\n"'\033[0m'
+
+echo "jobs -l \tTo find PID of process\t"
+echo "kill + PID\tTo kill the process\t"

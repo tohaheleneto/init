@@ -1,0 +1,2 @@
+echo '\033[1;34m'"Figure out the exact size of each folder of /var in a humanly understandable way followed by the path of it."'\033[0m'
+du -sh /var/*

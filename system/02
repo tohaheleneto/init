@@ -1,0 +1,3 @@
+echo '\033[1;34m'"What command can use to rename your system?"'\033[0m'
+
+hostname cmiklaz

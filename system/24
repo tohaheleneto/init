@@ -1,0 +1,2 @@
+echo '\033[1;34m'"Find that list all packages"'\033[0m'
+echo "dpkg -l Is a good command, but it doesnt works on Mac\nOne more command is 'apt list --installed' but it must be used by sudo group users"

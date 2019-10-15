@@ -1,0 +1,2 @@
+echo '\033[1;31m'"What file has to be modified to make it permanent?"'\033[0m'
+echo /etc/hostname

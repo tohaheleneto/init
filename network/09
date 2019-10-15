@@ -1,0 +1,3 @@
+echo '\033[1;32m'"Find the external IP of 42.fr\n"'\033[0m'
+echo "163.172.250.13\n
+163.172.250.12"

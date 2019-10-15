@@ -1,0 +1,2 @@
+echo '\033[1;34m'"Identify the default gateway in the routing table."'\033[0m'
+netstat -nr | grep -m 1 default | awk '{print $1 "\t\t" $2}'

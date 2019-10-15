@@ -1,0 +1,5 @@
+echo '\033[1;34m'"Name the command that displays the available space left and used on the system in an humanly understandable way\n"'\033[0m'
+
+df -t | grep Filesystem
+echo
+df -t | grep /dev/

@@ -1,0 +1,7 @@
+echo '\033[1;34m'"Name the command that lists the partition tables of drives?"'\033[0m'
+echo '\033[1;33m'"\tDrives and partion tablets\t"'\033[0m'
+ls /dev/ | grep sd
+echo '\033[1;33m'"\tDrives info\t"'\033[0m'
+df -h
+echo '\033[1;33m'"\tMore information about drives\t"'\033[0m'
+echo "To take more information you must use "lsblk" command in root user"
